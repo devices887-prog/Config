@@ -16,4 +16,12 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+<DirectoryEntry>
+<Name>Superman</Name>
+<Telephone>1005</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
 </PhoneBook>
