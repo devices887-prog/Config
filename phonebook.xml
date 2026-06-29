@@ -48,4 +48,12 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+<DirectoryEntry>
+<Name>Ronaldo</Name>
+<Telephone>3000</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
 </PhoneBook>
