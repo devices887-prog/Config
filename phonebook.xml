@@ -56,4 +56,12 @@
 <Ring>Default</Ring>
 <Group></Group>
 </DirectoryEntry>
+<DirectoryEntry>
+<Name>Messi</Name>
+<Telephone>9000</Telephone>
+<Mobile></Mobile>
+<Other></Other>
+<Ring>Default</Ring>
+<Group></Group>
+</DirectoryEntry>
 </PhoneBook>
